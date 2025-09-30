@@ -1,4 +1,4 @@
-const funcoesMatematicas = require('./funcoes_matematicas');
+const funcoesMatematicas = require('./modulos/funcoes_matematicas');
 
 // Exemplo de uso:
 console.log('Idade:', funcoesMatematicas.calcularIdade(2007, 2025) + ' anos'); 
